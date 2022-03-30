@@ -1,0 +1,34 @@
+[{
+    "id":"1",
+    "name":"Chris Leonard",
+    "email":"160419046@student.ubaya.ac.id",
+    "username":"cleo",
+    "phone":"08213328304",
+    "password":"chris",
+    "active": "0"
+},{
+    "id":"2",
+    "name":"Leonardo Da Vinci",
+    "email":"160419245@student.ubaya.ac.id",
+    "username":"vinci",
+    "phone":"08750328304",
+    "password":"leo",
+    "active":"1"
+
+},{
+    "id":"3",
+    "name":"Calvin Klein",
+    "email":"160419246@student.ubaya.ac.id",
+    "username":"calvin",
+    "phone":"08752429004",
+    "password":"calvin",
+    "active":"0"
+},{
+    "id":"4",
+    "name":"Leoni Maria",
+    "email":"160419445@student.ubaya.ac.id",
+    "username":"leoni",
+    "phone":"08750328304",
+    "password":"leoni",
+    "active":"1"
+}]
