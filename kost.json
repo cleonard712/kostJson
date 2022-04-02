@@ -1,0 +1,143 @@
+[{
+    "id":"1",
+    "nama_kos":"AM-35",
+    "jenis":"Kos Perempuan",
+    "harga_per_bulan":"1100000",
+    "fasilitas":"AC, listrik bayar sendiri, kamar mandi dalam atau tidak ada kamar mandi dalam",
+    "no_telepon":"",
+    "photo_url":"https://www.sewakost.com/files/08-2016/ad12171/1471222685418255236_large.jpg",
+    "comment":"kostnya bagus",
+    "rating":"5"
+},
+{
+    "id":"2",
+    "nama_kos":"AN-22",
+    "jenis":"Kos Perempuan",
+    "harga_per_bulan":"1600000 (untuk berdua)",
+    "fasilitas":"AC, listrik bayar sendiri, tidak ada kamar mandi dalam",
+    "no_telepon":"",
+    "photo_url":"https://www.mamikos-kosan.com/wp-content/uploads/2018/07/kost-putri-dekat-daerah-ubaya-tenggilis.jpg",
+    "comment":"kostnya bagus",
+    "rating":"4"
+},
+{
+    "id":"3",
+    "nama_kos":"Tenggilis mejoyo utara blok AI-14",
+    "jenis":"Kos laki-laki",
+    "harga_per_bulan":"400000-700000",
+    "fasilitas":"AC/tanpa AC, listrik bayar sendiri, tidak ada kamar mandi dalam",
+    "no_telepon":"",
+    "photo_url":"https://cleonard712.github.io/kostJson/img/kost3.jpg",
+    "comment":"kostnya bagus",
+    "rating":"5"
+},
+{
+    "id":"4",
+    "nama_kos":"AN-26",
+    "jenis":"",
+    "harga_per_bulan":"1000000",
+    "fasilitas":"AC, listrik sudah termasuk, kamar mandi dalam",
+    "no_telepon":"",
+    "photo_url":"https://www.realoka.com/pictures/13/kost-jl-trengilis-mejoyo-no-26-20885103sk9.jpeg",
+    "comment":"kostnya bagus",
+    "rating":"4"
+},
+{
+    "id":"5",
+    "nama_kos":"Rungkut mejoyo AI-14",
+    "jenis":"Kos laki-laki",
+    "harga_per_bulan":"600000",
+    "fasilitas":"AC pasang sendiri, listrik bayar sendiri, tidak ada kamar mandi dalam",
+    "no_telepon":"",
+    "photo_url":"https://cleonard712.github.io/kostJson/img/kost5.jpg",
+    "comment":"kostnya bagus",
+    "rating":"5"
+},
+{
+    "id":"6",
+    "nama_kos":"AN-3",
+    "jenis":"Kos Perempuan",
+    "harga_per_bulan":"1200000/ 1400000",
+    "fasilitas":"AC, listrik bayar sendiri, kamar mandi dalam atau tidak ada kamar mandi dalam",
+    "no_telepon":"",
+    "photo_url":"https://cleonard712.github.io/kostJson/img/kost6.jpg",
+    "comment":"kostnya bagus",
+    "rating":"5"
+},
+{
+    "id":"7",
+    "nama_kos":"Tenggilis mejoyo AM 14",
+    "jenis":"Kos Perempuan",
+    "harga_per_bulan":"1400000",
+    "fasilitas":"wifi, cuci baju, nasi putih",
+    "no_telepon":"087852525128",
+    "photo_url":"https://cleonard712.github.io/kostJson/img/kost7.jpg",
+    "comment":"kostnya bagus",
+    "rating":"4"
+},
+{
+    "id":"8",
+    "nama_kos":"Tenggilis mejoyo AM 15",
+    "jenis":"Kos Perempuan",
+    "harga_per_bulan":"1100000",
+    "fasilitas":"wifi, cuci baju, nasi putih",
+    "no_telepon":"082131446287",
+    "photo_url":"https://cleonard712.github.io/kostJson/img/kost7.jpg",
+    "comment":"kostnya bagus",
+    "rating":"4"
+},
+{
+    "id":"9",
+    "nama_kos":"Rungkut mejoyo selatan AK 6",
+    "jenis":"",
+    "harga_per_bulan":"1200000",
+    "fasilitas":"wifi, cuci baju, nasi putih, kamar mandi dalam, tv, water heater",
+    "no_telepon":"081615253396",
+    "photo_url":"https://cleonard712.github.io/kostJson/img/kost9.jpg",
+    "comment":"kostnya bagus",
+    "rating":"5"
+},
+{
+    "id":"10",
+    "nama_kos":"Rungkut mejoyo Utara AH 4",
+    "jenis":"Kos Perempuan",
+    "harga_per_bulan":"1100000",
+    "fasilitas":"kamar mandi dalam, AC, cuci baju, wifi, air minum, nasi, dapur",
+    "no_telepon":"085236102486",
+    "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVl0FE_mX4trL2diT0Z8kO6d5cEl9fwJKJrg&usqp=CAU",
+    "comment":"kostnya bagus",
+    "rating":"5"
+},
+{
+    "id":"11",
+    "nama_kos":"Rungkut mejoyo selatan VI W57",
+    "jenis":"Kos laki-laki",
+    "harga_per_bulan":"650000 belum token",
+    "fasilitas":"AC, cuci baju, kamar mandi luar, air minum, dapur",
+    "no_telepon":"",
+    "photo_url":"https://cleonard712.github.io/kostJson/img/kost11.jpg",
+    "comment":"kostnya bagus",
+    "rating":"4"
+},
+{
+    "id":"12",
+    "nama_kos":"Tenggilis mejoyo selatan AM 7",
+    "jenis":"Kos Perempuan",
+    "harga_per_bulan":"1600000",
+    "fasilitas":"kamar mandi luar, AC, cuci baju, wifi, air minum, nasi, dapur, sudah termasuk listrik",
+    "no_telepon":"088801416667",
+    "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_-e0gYwP5Dhc9NLZqkohH2gHcF92Kr_mNEw&usqp=CAU",
+    "comment":"kostnya bagus",
+    "rating":"4"
+},
+{
+    "id":"13",
+    "nama_kos":"Tenggilis mejoyo selatan AM 10",
+    "jenis":"Kos Perempuan",
+    "harga_per_bulan":"1250000 (lantai 3)",
+    "fasilitas":"kamar mandi luar, AC, cuci baju, wifi, nasi, dapur",
+    "no_telepon":"082131446287",
+    "photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_-e0gYwP5Dhc9NLZqkohH2gHcF92Kr_mNEw&usqp=CAU",
+    "comment":"kostnya bagus",
+    "rating":"5"
+}]
